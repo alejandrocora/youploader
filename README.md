@@ -118,4 +118,3 @@ youploader --email your-email@gmail.com --password your-password \
 
 This project is kept online for reference only.  
 The YouTube login flow used by `Youploader` has been patched and automated login is no longer possible without major rework and new authentication handling.
-```
