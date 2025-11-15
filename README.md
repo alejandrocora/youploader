@@ -1,4 +1,11 @@
-```markdown
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)]()
+[![Python](https://img.shields.io/badge/python-3.13.7-blue.svg)](https://www.python.org/)
+![Selenium](https://img.shields.io/badge/Selenium-4.32.0-blue.svg?logo=selenium&logoColor=white)
+[![License: GPL v3](https://img.shields.io/badge/license-GPLv3-lightgray.svg)](LICENSE)
+![Status](https://img.shields.io/badge/status-deprecated-red)
+![Maintenance](https://img.shields.io/badge/maintenance-no_longer_maintained-red)
+
+
 # ⚠️ Project Status: Deprecated & Unmaintained
 
 > **IMPORTANT:**  
